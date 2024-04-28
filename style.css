@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Inter',sans-serif;
 }
 
 html{
@@ -16,7 +19,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/back2.jpg);
+    background-image: url(images/background.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -66,7 +69,8 @@ nav ul li a:hover::after{
 }
 
 .header-text{
-    margin-top: 20%;
+    margin-top: 40%;
+    margin-left: 25%;
     font-size: 30px;
 
 }
@@ -83,14 +87,18 @@ span{
 /*  About */
 
 #about{
-    padding: 80px 0px;
     color: #ababab;
+    height: 100vh;
+    display: flex;
+    justify-items: center;
+    align-items: center;
 }
 
 .row{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .about-col-1{
@@ -106,6 +114,11 @@ span{
     flex-basis: 60%;
 }
 
+#about-paragraph{
+    margin-top: 8px;
+    font-size: 18px;
+}
+
 .sub-title{
     font-size: 60px;
     font-weight: 600;
@@ -119,10 +132,12 @@ span{
 
 .tab-links{
     margin-right: 50px;
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 500;
     cursor: pointer;
     position: relative;
+    color: #fff;
+    font-weight: 500;
 }
 
 .tab-links::after{
