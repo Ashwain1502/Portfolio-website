@@ -1,5 +1,5 @@
 # Portfolio-website
-A Frontend web interface to showcase portfolio for a person. It is fully responsive.
+A fully responsive web interface to showcase a portfolio of a person developed using HTML, CSS, and Javascript.
 
 ## Sections in website
 1. Hero Section: contains a navigation bar and tagline of the person.
