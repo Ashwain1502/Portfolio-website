@@ -8,6 +8,9 @@ A fully responsive web interface to showcase a portfolio of a person developed u
 4. Project Section: contains information about the project and links to working projects.
 5. Contact Section: contains contact information of the user along with a message box for clarifications.
 
+## Ongoing work
+1. ui/ux updation
+
 ## Working Link
 [Click Here](https://portfolio-ashwani-kumar.netlify.app/)
 
