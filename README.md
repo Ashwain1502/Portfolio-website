@@ -9,7 +9,7 @@ A Responsive web interface to showcase a portfolio of a person developed using H
 5. Contact Section: contains contact information of the user along with a message box for clarifications.
 
 ## Working Link
-[Click Here](https://portfolio-ashwani-kumar.netlify.app/)
+[Click Here](https://portfolio-ashwani-kumar.netlify.app/).
 
 ## Contributors
-Ashwani Kumar (ashwink1502@gmail.com)
+Ashwani Kumar (ashwink1502@gmail.com).
