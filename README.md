@@ -6,7 +6,7 @@ A Responsive web interface to showcase a portfolio of a person developed using H
 2. About Section: contains a picture of the user along with educational qualifications.
 3. Service Section: provide information about the services of the user.
 4. Project Section: contains information about the project and links to working projects.
-5. Contact Section: contains the user's contact information and a message box for clarifications.
+5. Contact Section: contains the user's contact information and a message box for clarification.
 
 ## Working On
 New design that will be more dynamic with enhanced user experience.
