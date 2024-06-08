@@ -14,5 +14,7 @@ New design that will be more dynamic with enhanced user experience.
 ## Working Link
 [Click Here](https://portfolio-ashwani-kumar.netlify.app/).
 
-## Contributors
-Ashwani Kumar (ashwink1502@gmail.com).
+> #### Contributors
+> Ashwani Kumar (ashwink1502@gmail.com).
+
+![A Pic](images/portrait.png)
